@@ -250,3 +250,14 @@
 "GET /media/products/81iwqwzwQL._AC_UL320_.jpg HTTP/1.1" 304 0
 "GET /media/products/81Yqx-u2z4L._AC_UL320_.jpg HTTP/1.1" 304 0
 "GET /media/products/61p8cUIuOOL._AC_UL320_.jpg HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 8500
+"GET /static/shop/css/shop-homepage.css HTTP/1.1" 304 0
+"GET /media/products/81N7hmMz3ZL._AC_UL320__idSRWDf.jpg HTTP/1.1" 200 7058
+"GET /static/shop/js/jquery.min.js HTTP/1.1" 304 0
+"GET /static/shop/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /media/products/81Yqx-u2z4L._AC_UL320_.jpg HTTP/1.1" 200 14874
+"GET /media/products/61OTvBe6qoL._AC_UL320_.jpg HTTP/1.1" 200 13499
+"GET /media/products/61p8cUIuOOL._AC_UL320_.jpg HTTP/1.1" 200 13542
+"GET /media/products/61Pvw-l-0FL._AC_UL320_.jpg HTTP/1.1" 200 10399
+"GET /media/products/81iwqwzwQL._AC_UL320_.jpg HTTP/1.1" 200 8432
+"GET /static/shop/css/bootstrap.min.css HTTP/1.1" 200 140930
