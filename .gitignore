@@ -2,7 +2,7 @@
 /env
 # Created by https://www.gitignore.io/api/django
 ### Django ###
-*.log
+
 *.pot
 *.pyc
 __pycache__/
